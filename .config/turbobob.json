@@ -1,0 +1,12 @@
+{
+	"for_description_of_this_file_see": "https://github.com/function61/turbobob",
+	"version_major": 1,
+	"project_name": "lspci",
+	"meta": {
+		"description": "Container image for lspci - a utility for displaying information about PCI buses in the system and devices connected to them.",
+		"website": "https://mj.ucw.cz/sw/pciutils/"
+	},
+	"docker_images": [
+		{ "image": "ghcr.io/r-xs-fi/lspci", "platforms": ["linux/amd64", "linux/arm64", "linux/arm/v7", "linux/riscv64"], "tag_latest": true }
+	]
+}
