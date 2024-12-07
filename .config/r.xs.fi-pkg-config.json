@@ -1,4 +1,5 @@
 {
+	"supply_chain_descriptor": "alpine-package:pciutils",
 	"usage_examples": [
 		{
 			"title": "List connected PCI devices",
